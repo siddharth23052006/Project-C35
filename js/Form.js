@@ -151,7 +151,6 @@ class Form {
 
       this.endTitle.html("Thank you for filling out this survey!");
       this.endTitle.position((windowWidth-10)/2-220,(windowHeight-10)/2-50);
-      this.endTitle.display();
     });
   }
 }
